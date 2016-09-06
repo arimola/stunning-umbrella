@@ -14,9 +14,6 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/agriffis/nginx-buildpack.git"
-    },
-    {
       "url": "heroku/nodejs"
     }
   ]
